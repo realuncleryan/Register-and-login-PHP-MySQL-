@@ -1,1 +1,1 @@
-# Register-and-login-PHP-MySQL-
+# Register-and-login | PHP-MySQL
